@@ -1,0 +1,13 @@
+export 'view/doctor_of_the_month_view.dart';
+export 'view/doctor_rating_view.dart';
+export 'view/common_navigation_bar.dart';
+export 'view/doctor_header_search_view.dart';
+export 'view/doctor_choose_consultation_view.dart';
+export 'view/doctor_choose_problem_view.dart';
+export 'view/doctor_book_appointment_view.dart';
+export 'view/doctor_clinic_map_view.dart';
+export 'view/doctor_find_your_doctor_view.dart';
+export 'view/doctor_insurence_view.dart';
+export 'view/doctor_donate_to_ngo_view.dart';
+export 'view/doctor_temp_view.dart';
+export 'view/doctor_quick_select_view.dart';
